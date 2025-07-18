@@ -18,8 +18,7 @@
         "username": "Demo",
         "password": "Demo123",
         "expirydate": "19-07-2025",
-        "expirytime":"00:05:00",
-        "Allowoffline": true
+        "Allowoffline": false
     }
     
 ]
